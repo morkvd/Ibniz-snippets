@@ -1,0 +1,7 @@
+\IBNIZ SNIPPETS
+\paste contents of this file into IBNIZ
+\uncomment lines to see what they do (remove the first '\' )
+
+\F/w*     \oscillating bands of color
+
+\U^FF*    \sawtooths (move the mouse around)
